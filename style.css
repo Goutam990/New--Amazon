@@ -152,7 +152,7 @@ span {
 .hero-section{
     height: 350px;
     background-size: cover;
-    background-image: url("hero_image.jpg");
+    background-image: url('hero_image.webp');
     display: flex;
     justify-content: center;
     align-items: flex-end;
